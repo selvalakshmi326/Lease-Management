@@ -1,4 +1,4 @@
-Here you will find all the documentfiles related to the project "Medical Inventory Management".
+Here you will find all the documentfiles related to the project "Lease Management".
 
 Team ID : NM2025TMID07221
 
